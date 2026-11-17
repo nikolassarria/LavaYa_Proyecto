@@ -46,7 +46,7 @@ Es la parte visual tipo aplicación móvil con la que interactúan el cliente y 
 * Panel de administrador: Se entra con clave (admin123) y muestra en una sola línea cada pedido registrado, el total de dinero ganado y un botón para eliminar pedidos y volver a liberar ese turno.
 
 # VALIDACIÓN
-Para comprobar que la aplicación fuera fácil de usar y realmente resolviera el problema de las filas, realizamos pruebas de uso con **5 personas reales** (compañeros de estudio y familiares con vehículo), pidiéndoles que se registraran, agendaran un turno y revisaran la información sin ayuda previa.
+Para comprobar que la aplicación fuera fácil de usar y realmente resolviera el problema de las filas, realizamos pruebas de uso con personas (compañeros de estudio, familiares, vecinos), pidiéndoles que se registraran, agendaran un turno y revisaran la información sin ayuda previa.
 
 # Hallazgos y mejoras realizadas a partir de las pruebas: 
 Claridad en el registro e inicio de sesión: 
