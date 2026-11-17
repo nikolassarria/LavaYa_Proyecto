@@ -26,7 +26,7 @@ La aplicación está pensada para dos tipos de personas:
 
 # FUNCIONAMIENTOS
 
-BACKEND
+BACKEND:
 Es la parte interna del programa donde se hacen los cálculos, revisiones y el guardado de datos:
 * Registro e inicio de sesión: Guarda los datos de cada cliente (nombre, usuario, correo, contraseña y placa) y revisa que nadie cree dos cuentas con el mismo usuario, correo o placa. También verifica que solo puedan entrar personas ya registradas.
 
@@ -35,7 +35,7 @@ Es la parte interna del programa donde se hacen los cálculos, revisiones y el g
 * Guardado y cuentas: Cada vez que alguien confirma un turno, lo escribe en una línea nueva dentro de "datos.txt". También suma el valor de todos los pedidos para mostrarle al administrador el total recaudado y permite borrar un pedido cuando ya se atendió.
 
 
-FRONTEND
+FRONTEND:
 Es la parte visual tipo aplicación móvil con la que interactúan el cliente y el administrador:
 * Pantalla de bienvenida, registro y acceso: Permite crear cuenta o iniciar sesión, acomodando automáticamente las placas en mayúscula y los correos en minúscula, y mostrando avisos claros si falta algún dato o si hay un error.
 * Reserva en 4 pasos:
