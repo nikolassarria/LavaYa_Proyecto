@@ -48,8 +48,8 @@ Es la parte visual tipo aplicación móvil con la que interactúan el cliente y 
 # VALIDACIÓN
 Para comprobar que la aplicación fuera fácil de usar y realmente resolviera el problema de las filas, realizamos pruebas de uso con **5 personas reales** (compañeros de estudio y familiares con vehículo), pidiéndoles que se registraran, agendaran un turno y revisaran la información sin ayuda previa.
 
-# Hallazgos y mejoras realizadas a partir de las pruebas:
-# Claridad en el registro e inicio de sesión: 
+# Hallazgos y mejoras realizadas a partir de las pruebas: 
+Claridad en el registro e inicio de sesión: 
 * Durante las pruebas notamos que si alguien escribía mal su usuario o intentaba entrar sin registrarse, el sistema no le avisaba. Gracias a esto agregamos alertas claras cuando el usuario no existe, cuando la contraseña es incorrecta o cuando se intenta repetir un correo "@gmail.com" o nombre de usuario.
 
 # Facilidad para elegir turno sin confusiones: 
