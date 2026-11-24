@@ -61,6 +61,7 @@ Claridad en el registro e inicio de sesión:
 # Evidencias de prueba:
 <img width="495" height="761" alt="image" src="https://github.com/user-attachments/assets/e5acdfc8-68c5-4938-9e78-e99d709908d3" />
 <img width="495" height="761" alt="Captura de pantalla 2026-11-24 124236" src="https://github.com/user-attachments/assets/40040326-0859-462e-8471-15c95895bc04" />
+<img width="495" height="761" alt="image" src="https://github.com/user-attachments/assets/49600c60-4ee8-400b-bb2a-36e9032a0609" />
 
 
 
