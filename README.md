@@ -59,7 +59,7 @@ Claridad en el registro e inicio de sesión:
 * Al probar la vista de administración, se observó que los datos de cada cliente se veían pequeños y desordenados. Se ajustó la lista para mostrar cada pedido en una sola línea numerada y en negrita, facilitando revisar las ventas del día de un vistazo.
 
 # Evidencias de prueba:
-<img width="1216" height="1600" alt="image" src="https://github.com/user-attachments/assets/e5acdfc8-68c5-4938-9e78-e99d709908d3" />
+<img width="495" height="761" alt="image" src="https://github.com/user-attachments/assets/e5acdfc8-68c5-4938-9e78-e99d709908d3" />
 <img width="495" height="761" alt="Captura de pantalla 2026-11-24 124236" src="https://github.com/user-attachments/assets/40040326-0859-462e-8471-15c95895bc04" />
 
 
